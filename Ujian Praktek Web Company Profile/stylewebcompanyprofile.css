@@ -1,0 +1,123 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: blue;
+}
+
+#hero img {
+    width: 100%;
+    height: 672px;
+}
+
+.font30 {
+    font-size: 30px;
+}
+
+#tentang button {
+    margin-top: 20px;
+    background-color: #f1c40f;
+    width: 250px;
+    height: 50px;
+    font-size: 15px;
+}
+
+#tentang img {
+    width: 350px;
+    height: 250px;
+}
+
+#hubungan img {
+    width: 100%;
+    height: 300px;
+}
+
+.bgcolor {
+    background-color: #f1c40f;
+    width: 100%;
+    height: 300px;
+}
+
+
+#produk img {
+    width: 300px;
+    height: 450px;
+}
+
+#produk button {
+    text-align: center;
+    margin-top: 20px;
+    background-color: white;
+    width: 300px;
+    height: 50px;
+    font-size: 15px;
+}
+
+#karir {
+    background-image: url(Image/photo-1612832021026-375ae70f24bf.jpg);
+    width: 100%;
+    height: 450px;
+    position: relative;
+    z-index: 1;
+    top: 0px;
+}
+
+#karir h3,
+#karir p {
+    top: 40px;
+    z-index: 10;
+}
+
+#karir button1 {
+    width: 250px;
+    height: 50px;
+    background-color: #f1c40f;
+}
+
+#karir button2 {
+    width: 300px;
+    height: 50px;
+    background-color: #f1c40f;
+}
+
+#ruang a {
+    font-size: 13px;
+    font-weight: lighter;
+}
+
+#ruang img {
+    width: 250px;
+    height: 50px;
+}
+
+#footas {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.card-footer span {
+    font-size: 12px;
+}
+
+.card-footer em {
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+#footas {
+    width: 100%;
+    font-size: 20px;
+    min-height: 300px;
+    margin-top: 100px;
+    background-color: #ecf0f1;
+    padding-top: 35px;
+    color: #FFFFFF;
+
+}
+
+#copy {
+    background-color: #7f8c8d;
+    width: 100%;
+}
